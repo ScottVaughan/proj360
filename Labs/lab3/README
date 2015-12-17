@@ -1,0 +1,5 @@
+Downloads a file by requesting a url and stripping the content into bytes that are threaded back into a file
+
+to run from the command line type: downloadAccelerator.py [-n threads] url
+example:
+python DownloadAccelerator.py -n 4 http://cs360.byu.edu/fall-2015/labs/download-accelerator
